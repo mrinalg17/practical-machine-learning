@@ -30,6 +30,7 @@ Now it is possible to collect a large amount of data about personal activity rel
 
 
 Data Cleaning
+
 Data import, importing Blanks, "NA" and "#DIV/0!" as NA's.
 
 setwd("/Users/sharan/Desktop/Sharan/Coursera_R")
